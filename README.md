@@ -47,6 +47,6 @@
    
    - Matplotlib의 animation bar chart를 사용하여 업종별 매달 카드 사용 데이터와 코로나 확진자수의 관계를 시각화
 
-5. 
+
    
    
